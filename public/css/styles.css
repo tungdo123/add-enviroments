@@ -1,0 +1,24 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+.form-login>div,.form-register>div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-login>h1,.form-register>h1{
+  text-align: center;
+}
